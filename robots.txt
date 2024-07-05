@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srs1166.github.io/WandeeWittayaep10/sitemap.xml
